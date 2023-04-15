@@ -1,0 +1,19 @@
+body.login {background-image: url(https://i0.wp.com/asset.fgp.one/file/header-bg.jpg); color: white;}
+/* body.login div#login {background-color: darkseagreen;} */
+/* body.login div#login h1 {background-color: blueviolet;} */
+/* body.login div#login h1 a {color: #000;} */
+/* body.login div#login p.message {color: peru; background-color: aqua;} */
+body.login div#login form#loginform {background-color: #0000;backdrop-filter: blur(5px);}
+/* body.login div#login form#loginform p {color: white;} */
+/* body.login div#login form#loginform p label {color: peru;} */
+/* body.login div#login form#loginform input {color: blue;} */
+/* body.login div#login form#loginform input#user_login {color: chartreuse;} */
+/* body.login div#login form#loginform input#user_pass {color: blueviolet;} */
+/* body.login div#login form#loginform p.forgetmenot {padding: 2em;} */
+/* body.login div#login form#loginform p.forgetmenot input#rememberme {color: peru} */
+/* body.login div#login form#loginform p.submit {color: peru} */
+body.login div#login form#loginform p.submit input#wp-submit {background-color: blueviolet;}
+/* body.login div#login p#nav {color: white} */
+body.login div#login p#nav a {color: white}
+/* body.login div#login p#backtoblog {border: 1px solid #000; background-color: bisque; padding: 2em} */
+body.login div#login p#backtoblog a {color: white}
